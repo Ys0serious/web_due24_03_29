@@ -1,0 +1,30 @@
+body
+{
+    background-color: aqua;
+    text-align: left;
+    margin-left: 30%;
+}
+
+h1,h2
+{
+    text-align: center;
+    margin-right: 50%;
+}
+
+form 
+{ display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    max-width: 25em;
+ }
+
+.textbox
+{
+    display: block;
+ 
+    height: 7em;
+    width: 25em;
+
+
+}
+
